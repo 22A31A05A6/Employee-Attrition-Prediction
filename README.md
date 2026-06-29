@@ -82,19 +82,19 @@ The project includes:
 ## Project Structure
 
 ```
-employee-attrition-prediction/
+EmployeeAttrition_SamuelGuttula/
 │
-├── analysis.ipynb
-├── HR_Attrition.csv
-├── summary.pdf
-├── README.md
-├── requirements.txt
-└── charts/
-    ├── attrition_department.png
-    ├── monthly_income.png
-    ├── confusion_matrix.png
-    ├── feature_importance.png
-    └── roc_curve.png
+├── analysis.ipynb          
+├── HR_Attrition.csv        
+├── summary.pdf             
+├── README.md               
+├── requirements.txt        
+└── charts/               
+    ├── chart1_dept_role.png
+    ├── chart2_income.png
+    ├── chart3_cm_best_model.png
+    ├── chart4_features.png
+    └── chart5_roc.png
 ```
 
 ---
